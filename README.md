@@ -18,3 +18,7 @@ python main.py
 *Data -> Suggest_config.json*
 *Data -> Welcome_config.json*
 *Racine -> config.py*
+
+Je tiens a vous dire que je l'ai fait après qu'ils aient dmall mon serveur (ce qui est Hors TOS discord) 
+
+Bonne soirée/journée a vous.
